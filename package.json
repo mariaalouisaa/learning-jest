@@ -1,0 +1,12 @@
+{
+  "name": "learning-jest",
+  "version": "1.0.0",
+  "description": "Testing Jest testing library",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Maria Castro",
+  "license": "ISC"
+}
